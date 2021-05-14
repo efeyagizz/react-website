@@ -5,40 +5,40 @@ import './Cards.css';
 function Cards() {
     return (
         <div className='cards'>
-          <h1>Check out these EPIC Destinations!</h1>
+          <h1>All about SPACE!</h1>
           <div className='cards__container'>
             <div className='cards__wrapper'>
               <ul className='cards__items'>
                 <CardItem
-                  src='imagess/img-9.jpg'
-                  text='Explore the hidden waterfall deep inside the Amazon Jungle'
-                  label='Adventure'
+                  src='imagess/space0.jpg'
+                  text="The space beyond Earth's atmosphere, Outer space."
+                  label='Mystery'
                   path='/services'
                 />
                 <CardItem
-                  src='imagess/img-2.jpg'
-                  text='Travel through the Islands of Bali in a Private Cruise'
-                  label='Luxury'
+                  src='imagess/space1.jpg'
+                  text="This article is about the astrophotograph."
+                  label='Astrophotography'
                   path='/services'
                 />
               </ul>
               <ul className='cards__items'>
                 <CardItem
-                  src='imagess/img-3.jpg'
-                  text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
-                  label='Mystery'
+                  src='imagess/space3.jpg'
+                  text="This article is about Earth's natural satellite."
+                  label='Moon'
                   path='/services'
                 />
                 <CardItem
-                  src='imagess/img-4.jpg'
-                  text='Experience Football on Top of the Himilayan Mountains'
-                  label='Adventure'
+                  src='imagess/space4.jpg'
+                  text='This article is about the rocket manufacturer.'
+                  label='Adrenaline'
                   path='/products'
                 />
                 <CardItem
-                  src='imagess/img-8.jpg'
-                  text='Ride through the Sahara Desert on a guided camel tour'
-                  label='Adrenaline'
+                  src='imagess/space5.jpg'
+                  text='The International Space Station (ISS) is a modular space station in low Earth orbit. '
+                  label='Aventure'
                   path='/sign-up'
                 />
               </ul>
