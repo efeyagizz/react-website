@@ -6,6 +6,7 @@
 ### Proje Hakkında
 
 React kulanarak oluşturduğum bir website.
+https://vibrant-goodall-8b1bd1.netlify.app/
 
 
 <img src="screenshot1.png" alt="website"/>
